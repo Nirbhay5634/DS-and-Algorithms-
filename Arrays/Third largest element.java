@@ -28,6 +28,9 @@ Constraints:
 
 */
 
+
+// 1st Solution
+
 import java.io.*;
 
 class ThirdLargestElement
@@ -48,8 +51,6 @@ class ThirdLargestElement
 		}
 	}
 }// } Driver Code Ends
-
-// 1st Solution
 
 class Solution
 {
